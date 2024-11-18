@@ -1,5 +1,5 @@
 # Luxvoyage - DigitalProductDevelopment
-# LuxVoyage is a revolutionary digital platform that democratizes access to luxury goods and experiences through a peer-to-peer rental marketplace. Our mission is to make opulence accessible to everyone while promoting sustainability and responsible consumption.
+LuxVoyage is a revolutionary digital platform that democratizes access to luxury goods and experiences through a peer-to-peer rental marketplace. Our mission is to make opulence accessible to everyone while promoting sustainability and responsible consumption.
 # Table of Contents
     Project Overview
     Features
